@@ -45,5 +45,4 @@ sudo systemctl start jenkins
 3. Docker image is built and pushed (if needed).
 4. Jenkins deploys the image to the Kubernetes cluster.
 
-## License
-This project is licensed under the MIT License.
+
